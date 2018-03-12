@@ -32,8 +32,9 @@ class Student
       binding.pry
     end
   end
-      
-    
+end
+
+
   end
 
   def save
