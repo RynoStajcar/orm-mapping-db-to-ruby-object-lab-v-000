@@ -47,5 +47,5 @@ class Student
     new_song.name = row[1]
     new_song.length = row[2]
   end
-  
+
 end
